@@ -1,0 +1,16 @@
+{
+  "name": "a-note-for-niyayesh",
+  "version": "1.0.0",
+  "description": "A personal letter from Arash to Niyayesh. A static GitHub Pages website.",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "test": "playwright test"
+  },
+  "dependencies": {
+    "gsap": "^3.15.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0"
+  },
+  "private": true
+}
